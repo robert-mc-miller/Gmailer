@@ -34,7 +34,7 @@ def sendNow(to, name, subject):
 
 
 
-    # Attach file (optional, comment out if not needed
+    # Attach file (optional, comment out if not needed)
 ########################################################################################################################
     filename = # Change this to your file name
     attachment = open(filename, 'rb')
